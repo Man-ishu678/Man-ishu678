@@ -1,15 +1,157 @@
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish.sonu2117@gmail.com) 
+# 👋 Hey, I'm Manish Kumar Devarshetty
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Man-ishu678&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Man-ishu678&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ishu678&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 🤖 AI & Machine Learning Engineer | GenAI Builder | LLM Application Developer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manishkumardevarshetty-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkumardevarshetty)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manish.sonu2117@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Man-ishu678)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Man-ishu678&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm an **AI & ML Engineer** from Hyderabad 🇮🇳, passionate about building end-to-end intelligent systems — from raw data to deployed, production-ready applications.
+
+- 🎓 B.Tech in CSE (AI & ML) from **Vardhaman College of Engineering** — CGPA: **8.04 / 10**
+- 🔭 Currently building **Multi-Agent AI systems** and **RAG pipelines** using LangChain, LangGraph & LLMs
+- 🌱 Exploring **Agentic AI**, **Prompt Engineering**, and **Scalable ML Deployment**
+- 💡 I love turning complex problems into clean, working AI solutions
+- 📍 Based in **Hyderabad, India**
+
+---
+
+## 🚀 Featured Projects
+
+### 🦷 [AI Multi-Agent Dental Appointment System](https://github.com/Man-ishu678)
+> **Python · LangGraph · LangChain · Groq (Llama-3) · Pandas** — *Mar 2026*
+
+A production-style **multi-agent conversational AI** that handles dental appointment queries — availability, booking, cancellation, and rescheduling — through natural language.
+
+- 🧠 Supervisor-based agent architecture with LangGraph for intent routing
+- 🔧 LLM tool-calling with structured CSV data operations via LangChain + Pandas
+- 💬 Stateful multi-turn conversations with specialized agents
+
+---
+
+### 📄 [Resume Q&A Assistant (RAG-based)](https://github.com/Man-ishu678)
+> **Python · FastAPI · LangChain · FAISS · Llama3 (Ollama) · SentenceTransformers · Streamlit** — *Feb 2026*
+
+A **Retrieval-Augmented Generation** system that answers resume-related queries with grounded, accurate responses.
+
+- 🔍 Embedding-based semantic search with optimized chunking and top-k retrieval
+- ⚡ RESTful APIs with FastAPI + async handling + Pydantic validation
+- 🎯 Minimized LLM hallucinations via vector-based document retrieval
+- 🖥️ Clean Streamlit UI for interactive querying
+
+---
+
+### 🏠 [House Pricing Prediction — Deep Learning](https://github.com/Man-ishu678/House-Pricing-Prediction-Using-Deep-Learning)
+> **Python · TensorFlow · Keras · Scikit-learn**
+
+Deep learning model for predicting house prices with end-to-end ML pipeline including EDA, feature engineering, and model evaluation.
+
+---
+
+### 🛡️ [Fraud Detection System](https://github.com/Man-ishu678/FraudDetectionProject)
+> **Python · Scikit-learn · Pandas · NumPy**
+
+Machine learning-based fraud detection with classification models, hyperparameter tuning, and cross-validation on imbalanced datasets.
+
+---
+
+### 🌾 [Smart Agriculture Monitoring System](https://github.com/Man-ishu678/SmartAgricultureMonitoringSystemUsing-AI-ML-project-)
+> **Python · AI/ML**
+
+AI/ML-powered agriculture monitoring system for crop health and yield prediction using smart data pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML / GenAI
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### 🧬 LLMs & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF9900?style=flat-square)
+
+### 📦 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+### 🚀 Deployment & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Man-ishu678&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Man-ishu678&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ishu678&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech — CSE (AI & ML) | Vardhaman College of Engineering, Hyderabad | 2021 – 2025 | CGPA: 8.04 / 10 |
+| MPC (Intermediate) | Sri Chaitanya Junior Kalasala, Hyderabad | 2019 – 2021 | 95.4% |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- 📊 **Career Essentials in Data Analysis** — Microsoft & LinkedIn
+- 🍃 **Introduction to MongoDB for Students** — MongoDB University
+
+---
+
+## 💼 Experience
+
+**Machine Learning Trainee** @ [Gradious Technologies](https://gradious.com), Hyderabad *(Sep 2025)*
+- Built and optimized supervised & deep learning models with Python, TensorFlow, and Scikit-learn
+- End-to-end ML workflows: EDA → feature engineering → training → hyperparameter tuning → cross-validation
+- Developed SQL queries for data extraction from relational databases
+- Implemented modular ML pipelines following Agile and SDLC best practices
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something intelligent together!
+
+📧 manish.sonu2117@gmail.com &nbsp;|&nbsp; 📱 +91 7569063544 &nbsp;|&nbsp; 🌐 [Portfolio](https://manishkumardevarshetty-portfolio.vercel.app)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Man-ishu678&icon=0&color=0)
+
+</div>
