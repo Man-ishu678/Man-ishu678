@@ -76,7 +76,11 @@ philosophy: "ship it, measure it, then make it sound human"
 
 <!-- This list is refreshed automatically — see .github/workflows/update-readme.yml -->
 <!--START_SECTION:latest-projects-->
-<!-- Latest projects will appear here after the first workflow run -->
+- **[man-ishu678.github.io](https://github.com/Man-ishu678/man-ishu678.github.io)** `HTML` — — <sub>updated 2026-05-31</sub>
+- **[financial-sentiment-analysis](https://github.com/Man-ishu678/financial-sentiment-analysis)** `Python` — Fine-tuning DistilBERT for 3-class financial news sentiment classification <sub>updated 2026-03-30</sub>
+- **[air-india-complaint-classification](https://github.com/Man-ishu678/air-india-complaint-classification)** `Jupyter Notebook` — NLP + Neural Networks complaint classifier — MLP, LSTM, 1D-CNN <sub>updated 2026-03-12</sub>
+- **[traffic-flow-prediction](https://github.com/Man-ishu678/traffic-flow-prediction)** `Jupyter Notebook` — — <sub>updated 2026-02-02</sub>
+- **[customer-churn-prediction-using-ANN](https://github.com/Man-ishu678/customer-churn-prediction-using-ANN)** `Jupyter Notebook` — Deep Learning project using Artificial Neural Networks (ANN) to predict telecom customer churn with end-to-end preprocessing, training, and evaluation. <sub>updated 2026-01-26</sub>
 <!--END_SECTION:latest-projects-->
 
 ---
@@ -91,7 +95,7 @@ philosophy: "ship it, measure it, then make it sound human"
 
 <!-- This list is refreshed automatically — see .github/workflows/update-readme.yml -->
 <!--START_SECTION:recent-contributions-->
-<!-- Recent contributions will appear here after the first workflow run -->
+- 🔀 **[maraks-gradious/maven-test1](https://github.com/maraks-gradious/maven-test1)** — [manish0001 - Git Assignment](https://github.com/maraks-gradious/maven-test1/pull/275) <sub>2026-04-28</sub>
 <!--END_SECTION:recent-contributions-->
 
 ---
