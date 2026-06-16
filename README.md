@@ -1,157 +1,120 @@
-<div align="center">
+<!--
+  GitHub profile README for Man-ishu678
+  The "Latest Projects" and "Recent Contributions" sections below are updated
+  automatically by .github/workflows/update-readme.yml — do not edit between the
+  <!--START_SECTION:...--> and <!--END_SECTION:...--> markers by hand.
+-->
 
-# 👋 Hey, I'm Manish Kumar Devarshetty
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=6E56CF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manish+Kumar+Devarshetty;AI+%2F+ML+Engineer;Building+LLM+agents%2C+RAG+%26+MCP+systems" alt="Typing SVG" />
+</h1>
 
-### 🤖 AI & Machine Learning Engineer | GenAI Builder | LLM Application Developer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manishkumardevarshetty-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishkumardevarshetty)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manish.sonu2117@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Man-ishu678)
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm an **AI & ML Engineer** from Hyderabad 🇮🇳, passionate about building end-to-end intelligent systems — from raw data to deployed, production-ready applications.
-
-- 🎓 B.Tech in CSE (AI & ML) from **Vardhaman College of Engineering** — CGPA: **8.04 / 10**
-- 🔭 Currently building **Multi-Agent AI systems** and **RAG pipelines** using LangChain, LangGraph & LLMs
-- 🌱 Exploring **Agentic AI**, **Prompt Engineering**, and **Scalable ML Deployment**
-- 💡 I love turning complex problems into clean, working AI solutions
-- 📍 Based in **Hyderabad, India**
+<p align="center">
+  <a href="https://github.com/Man-ishu678"><img src="https://komarev.com/ghpvc/?username=Man-ishu678&label=Profile%20views&color=6e56cf&style=flat" alt="profile views" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20RAG-6e56cf?style=flat" alt="focus" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 👋 About me
 
-### 🦷 [AI Multi-Agent Dental Appointment System](https://github.com/Man-ishu678)
-> **Python · LangGraph · LangChain · Groq (Llama-3) · Pandas** — *Mar 2026*
+```yaml
+name: Manish Kumar Devarshetty
+role: AI / ML Engineer
+focus:
+  - Multi-agent systems & LLM orchestration
+  - Retrieval-Augmented Generation (RAG)
+  - Model Context Protocol (MCP) tooling
+  - Building things end-to-end, then shipping them
+currently: turning real workflows into AI products
+philosophy: "ship it, measure it, then make it sound human"
+```
 
-A production-style **multi-agent conversational AI** that handles dental appointment queries — availability, booking, cancellation, and rescheduling — through natural language.
+- 🤖 I build **conversational AI agents** with LangChain & LangGraph
+- 🔎 I work on **RAG pipelines** with FAISS and local / hosted LLMs
+- 🔌 I'm into **MCP** — both serving tools to agents and consuming them
+- 🧪 I care about **evaluation**, reproducibility, and honest limits
 
-- 🧠 Supervisor-based agent architecture with LangGraph for intent routing
-- 🔧 LLM tool-calling with structured CSV data operations via LangChain + Pandas
-- 💬 Stateful multi-turn conversations with specialized agents
-
----
-
-### 📄 [Resume Q&A Assistant (RAG-based)](https://github.com/Man-ishu678)
-> **Python · FastAPI · LangChain · FAISS · Llama3 (Ollama) · SentenceTransformers · Streamlit** — *Feb 2026*
-
-A **Retrieval-Augmented Generation** system that answers resume-related queries with grounded, accurate responses.
-
-- 🔍 Embedding-based semantic search with optimized chunking and top-k retrieval
-- ⚡ RESTful APIs with FastAPI + async handling + Pydantic validation
-- 🎯 Minimized LLM hallucinations via vector-based document retrieval
-- 🖥️ Clean Streamlit UI for interactive querying
-
----
-
-### 🏠 [House Pricing Prediction — Deep Learning](https://github.com/Man-ishu678/House-Pricing-Prediction-Using-Deep-Learning)
-> **Python · TensorFlow · Keras · Scikit-learn**
-
-Deep learning model for predicting house prices with end-to-end ML pipeline including EDA, feature engineering, and model evaluation.
+<!-- Edit these once: drop in your real links -->
+<p align="left">
+  <a href="https://github.com/Man-ishu678"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
 ---
 
-### 🛡️ [Fraud Detection System](https://github.com/Man-ishu678/FraudDetectionProject)
-> **Python · Scikit-learn · Pandas · NumPy**
+### 🛠️ Tech Stack
 
-Machine learning-based fraud detection with classification models, hyperparameter tuning, and cross-validation on imbalanced datasets.
-
----
-
-### 🌾 [Smart Agriculture Monitoring System](https://github.com/Man-ishu678/SmartAgricultureMonitoringSystemUsing-AI-ML-project-)
-> **Python · AI/ML**
-
-AI/ML-powered agriculture monitoring system for crop health and yield prediction using smart data pipelines.
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / ML / GenAI
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### 🧬 LLMs & GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF9900?style=flat-square)
-
-### 📦 Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-
-### 🚀 Deployment & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama%203-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| **[Standloop](https://github.com/Man-ishu678/standloop)** | Writes your daily standup for you — pulls activity from GitHub, Linear, Jira & Slack, then an LLM turns it into an update in your own voice. Also runs as an MCP server (`get_standup`). | TypeScript · Node · Express · PostgreSQL · MCP |
+| **[AI Dental Appointment Agent](https://github.com/Man-ishu678/ai-dental-appointment-agent)** | A multi-agent conversational system that books, cancels & reschedules dental appointments. Supervisor routes intent to specialist agents. | Python · LangGraph · LangChain · Llama-3 (Groq) |
+| **[Resume RAG Recruiter AI](https://github.com/Man-ishu678/resume-rag-recruiter-ai)** | Upload a resume, ask questions, get instant answers. RAG over PDFs with JWT-secured recruiter login, runs fully offline. | Python · FastAPI · Streamlit · LangChain · FAISS · Ollama |
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Man-ishu678&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+#### 🆕 Latest Projects
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Man-ishu678&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ishu678&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — CSE (AI & ML) | Vardhaman College of Engineering, Hyderabad | 2021 – 2025 | CGPA: 8.04 / 10 |
-| MPC (Intermediate) | Sri Chaitanya Junior Kalasala, Hyderabad | 2019 – 2021 | 95.4% |
+<!-- This list is refreshed automatically — see .github/workflows/update-readme.yml -->
+<!--START_SECTION:latest-projects-->
+<!-- Latest projects will appear here after the first workflow run -->
+<!--END_SECTION:latest-projects-->
 
 ---
 
-## 📜 Certifications
+### 🌱 Open Source Contributions
 
-- 🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- 📊 **Career Essentials in Data Analysis** — Microsoft & LinkedIn
-- 🍃 **Introduction to MongoDB for Students** — MongoDB University
+| Project | Contribution |
+|---|---|
+| **[lm-evaluation-harness](https://github.com/Man-ishu678/lm-evaluation-harness)** | EleutherAI's unified framework for evaluating generative language models across 60+ academic benchmarks — the backend behind Hugging Face's Open LLM Leaderboard. |
 
----
+#### 🔗 Recent Contributions
 
-## 💼 Experience
-
-**Machine Learning Trainee** @ [Gradious Technologies](https://gradious.com), Hyderabad *(Sep 2025)*
-- Built and optimized supervised & deep learning models with Python, TensorFlow, and Scikit-learn
-- End-to-end ML workflows: EDA → feature engineering → training → hyperparameter tuning → cross-validation
-- Developed SQL queries for data extraction from relational databases
-- Implemented modular ML pipelines following Agile and SDLC best practices
+<!-- This list is refreshed automatically — see .github/workflows/update-readme.yml -->
+<!--START_SECTION:recent-contributions-->
+<!-- Recent contributions will appear here after the first workflow run -->
+<!--END_SECTION:recent-contributions-->
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-### 💬 Let's connect and build something intelligent together!
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Man-ishu678&show_icons=true&count_private=true&hide_border=true&title_color=6e56cf&icon_color=6e56cf&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ishu678&layout=compact&hide_border=true&title_color=6e56cf&theme=tokyonight" alt="top langs" />
+</p>
 
-📧 manish.sonu2117@gmail.com &nbsp;|&nbsp; 📱 +91 7569063544 &nbsp;|&nbsp; 🌐 [Portfolio](https://manishkumardevarshetty-portfolio.vercel.app)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Man-ishu678&hide_border=true&ring=6e56cf&fire=6e56cf&currStreakLabel=6e56cf&theme=tokyonight" alt="streak" />
+</p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Man-ishu678&icon=0&color=0)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Man-ishu678&theme=algolia&no-frame=true&column=7&margin-w=6" alt="trophies" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-ishu678&bg_color=1a1b27&color=6e56cf&line=6e56cf&point=ffffff&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to explore the repos. ⭐</i></p>
