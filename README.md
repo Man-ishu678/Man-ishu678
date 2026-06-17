@@ -2,7 +2,7 @@
   GitHub profile README for Man-ishu678
   The "Latest Projects" and "Recent Contributions" sections below are updated
   automatically by .github/workflows/update-readme.yml — do not edit between the
-  <!--START_SECTION:...--> and <!--END_SECTION:...--> -->
+  --> 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=6E56CF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manish+Kumar+Devarshetty;AI+%2F+ML+Engineer;Building+LLM+agents%2C+RAG+%26+MCP+systems" alt="Typing SVG" />
